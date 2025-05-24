@@ -1,0 +1,8 @@
+.env
+*.pyc
+__pycache__/
+rss_list.xlsx
+rss_list_updated*.xlsx
+.vscode/
+.idea/
+.dockerignore
